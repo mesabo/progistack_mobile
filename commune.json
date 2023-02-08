@@ -1,0 +1,16 @@
+{
+    "id": 0,
+    "name": "Abobo",
+    "commerces": [
+        {
+            "agence": {
+                "id": 0,
+                "name": "Agence 1",
+                "address": {
+                    "lat": 0.0,
+                    "long": 0.0
+                }
+            }
+        }
+    ]
+}
